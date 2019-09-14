@@ -83,9 +83,7 @@ const styleSheet = StyleSheet.create({
   root: {},
   /* Styles applied to the root element if `container={true}`. */
   container: {
-    display: 'flex',
     flexWrap: 'wrap',
-    flex: 1,
   },
   /* Styles applied to the root element if `item={true}`. */
   item: {
